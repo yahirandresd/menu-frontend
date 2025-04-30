@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@theme {
+    --color-mompri: #ffd323;
+    --color-mompri2: #ff8a00;
+  }

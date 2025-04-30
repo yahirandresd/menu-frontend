@@ -12,9 +12,9 @@ export default function Home() {
 
 
       <div className="space-y-4 w-full max-w-xs">
-        <Link to="/menu" className="block text-center py-3 rounded-full text-black bg-[#ffd323] font-medium text-xl hover:bg-black hover:text-amber-50 focus:outline-none focus:ring-4 focus:ring-gray-300 font-medium rounded-full text-sm px-5 py-2.5 me-2 mb-2">Ver Menú</Link>
-        <button className="block w-full py-3 bg-white text-black rounded-full">Domicilios</button>
-        <button className="block w-full py-3 bg-white text-black rounded-full">Reservas</button>
+        <Link to="/menu" className="block w-full text-center py-3 rounded-full text-black bg-mompri font-medium text-xl hover:bg-black hover:text-amber-50 focus:outline-none focus:ring-4 focus:ring-gray-300  px-5  me-2 mb-2 transition-colors duration-500">Ver Menú</Link>
+        <button className="block w-full text-center py-3 rounded-full text-black bg-mompri font-medium text-xl hover:bg-black hover:text-amber-50 focus:outline-none focus:ring-4 focus:ring-gray-300  px-5  me-2 mb-2 transition-colors duration-500">Domicilios</button>
+        <button className="block w-full text-center py-3 rounded-full text-black bg-mompri font-medium text-xl hover:bg-black hover:text-amber-50 focus:outline-none focus:ring-4 focus:ring-gray-300  px-5  me-2 mb-2 transition-colors duration-500">Ubicaciones</button>
       </div>
 
       <div className="mt-10 text-center">
