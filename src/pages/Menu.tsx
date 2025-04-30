@@ -71,7 +71,7 @@ export default function Menu() {
               price="3.000"
             />
             <Product
-              image="https://example.com/agua.jpg"
+              image="https://stockimages.tiendasd1.com/stockimages.tiendasd1.com/kobastockimages/IMAGENES/12005713.png"
               title="Agua"
               description="Botella de agua fría SIN GAS de 600 ml."
               price="3.000"
