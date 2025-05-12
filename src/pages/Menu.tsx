@@ -35,19 +35,31 @@ export default function Menu() {
             <Product
               image="https://ranchera.com.co/wp-content/uploads/2022/11/perro-colombiano-1.jpg"
               title="CRF | CLÁSICO"
-              description="Salsa de tomate, mostaza, mayonesa y papitas."
+              description="Una combinación tradicional con salsa de tomate, mostaza, mayonesa y papitas crocantes."
               price="6,999"
             />
             <Product
-              image="https://example.com/perro-especial.jpg"
+              image="/perrocosteno.png"
               title="RM | COSTEÑO"
-              description="Con queso, tocineta, papitas, salsas especiales."
+              description="Salchicha jugosa acompañada de salsa de tomate, mostaza, mayonesa, salsa de piña, queso costeño y papitas crujientes."
               price="6,999"
             />
             <Product
-              image="https://example.com/perro-todo.jpg"
+              image="/tocineta.png"
               title="YZ | TOCINETA"
-              description="Tocineta ahumada, queso mozzarella fundido, BBQ, chipotle y papitas ."
+              description="Deliciosa tocineta ahumada con queso mozzarella fundido, salsa BBQ, toque de chipotle y papitas doradas."
+              price="6,999"
+            />
+            <Product
+              image="/tostacos.png"
+              title="KX | TOSTACOS"
+              description="Guacamole fresco, carne desmechada, salsa de ajo, queso cheddar derretido y trozos de tostacos para un toque crocante."
+              price="6,999"
+            />
+            <Product
+              image="/peperoni.png"
+              title="SX | PEPERONI"
+              description="Salchicha con salsa de tomate, un toque picante de chipotle, queso fundido y láminas de pepperoni."
               price="6,999"
             />
           </div>
@@ -61,19 +73,19 @@ export default function Menu() {
             <Product
               image="https://www.coca-cola.com/content/dam/onexp/co/es/brands/coca-cola/coca-cola-original/ccso_600ml_750x750.png"
               title="Coca Cola"
-              description="Refresco clásico de 400 ml bien frío."
+              description="250 ml"
               price="3.000"
             />
             <Product
               image="https://licoresmedellin.com/cdn/shop/files/GASEOSA_MANZANA_POSTOBON_PERSONAL_400ML.jpg?v=1719435301"
               title="Manzana"
-              description="300 ml."
+              description="250 ml"
               price="3.000"
             />
             <Product
               image="https://stockimages.tiendasd1.com/stockimages.tiendasd1.com/kobastockimages/IMAGENES/12005713.png"
               title="Agua"
-              description="Botella de agua fría SIN GAS de 600 ml."
+              description="200 ml"
               price="3.000"
             />
           </div>

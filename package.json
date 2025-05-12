@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "homepage": "mompri.com",
   "dependencies": {
     "@tailwindcss/vite": "^4.1.4",
     "react": "^18.2.0",
